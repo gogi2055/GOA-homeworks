@@ -26,3 +26,4 @@ item_quantity = int(input("Enter item quantity: "))
 item_price = 50
 print("overall price")
 print(item_price * item_quantity)
+
